@@ -1,3 +1,6 @@
+[Designing for multiple devices] https://medium.com/@jackieho67/designing-apps-for-multiple-android-devices-ad3b9fa09d7e#.38ted9dpr
+
+
 ---
 title: Medium Article Homework 2
 type: Homework
